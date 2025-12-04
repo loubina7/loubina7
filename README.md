@@ -3,8 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loubna-elh02/)
 
 ### 👩‍💻 Software Engineering Student | ENSA Oujda, Morocco 🇲🇦  
-Passionate about building modern applications with **Java, Spring Boot, React, Next.js**, and exploring **AI & Cloud**.  
-Currently improving my full-stack and DevOps skills while working on academic and personal projects.
+Passionate about building modern applications with **Java, Spring Boot, React, PHP**, and exploring **AI & Cloud**.  
+Currently improving my full-stack and AI skills while working on academic and personal projects.
 
 ---
 
@@ -12,7 +12,7 @@ Currently improving my full-stack and DevOps skills while working on academic an
 
 ### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c#" />
 </p>
 
 ### **Frameworks & Libraries**
