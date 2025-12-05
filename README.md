@@ -39,10 +39,11 @@ Currently improving my full-stack and AI skills while working on academic and pe
 
 ## 🔥 **My Stats**
 
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=loubina7&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loubina7&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=loubina7&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=loubina7&layout=compact&theme=tokyonight" />
+</div>
+
 
 ---
 
