@@ -43,8 +43,6 @@ Currently improving my full-stack and AI skills while working on academic and pe
   <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=loubina7&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=loubina7&layout=compact&theme=tokyonight" />
 </div>
-
-
 ---
 
 ## 🚀 **Always learning, always improving!** 😊  
